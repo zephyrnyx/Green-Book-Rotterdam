@@ -1,1 +1,0 @@
-[[Queer Rotterdam]] 
