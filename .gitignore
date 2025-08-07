@@ -1,0 +1,5 @@
+quartz/
+*/.obsidian
+.venv
+.idea
+../quartz
