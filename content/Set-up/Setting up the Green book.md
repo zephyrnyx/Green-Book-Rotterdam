@@ -52,3 +52,11 @@ Github Pages - https://pages.github.com/
 Netlify
 
 Need to make sure the npm
+
+
+TODO:
+Look into cleaning up the repository
+https://github.com/marketplace/actions/build-quartz-for-github-pages
+
+Look into connecting obsidian with the website
+
